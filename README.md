@@ -37,6 +37,9 @@ $ git clone git@github.com:jorgediasdsg/askozia_shell.git
 # Go into the folder of the project
 $ cd askozia_shell
 
+# Config url's 
+  nano askozia_shell.sh
+
 #If you want to run the project
 ./askozia_shell.sh
 ```
